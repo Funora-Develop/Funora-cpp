@@ -18,7 +18,7 @@
 
 > **Unofficial project.** Funora is not affiliated with, endorsed by, or connected to FunPay.
 > It works against a private web interface that can change at any time without notice.
-> Using it may lead to your account being suspended and your funds frozen — that risk is yours.
+> Using it may lead to your account being suspended and your funds frozen - that risk is yours.
 > Read [DISCLAIMER.md](DISCLAIMER.md) before relying on this for anything that earns you money.
 
 ## Status: `planned`
@@ -27,7 +27,7 @@ Not started. The name and the repository are reserved; work begins once the cont
 
 ## What this is
 
-Starts only after the protocol and domain contracts stop moving — an early C++ implementation would turn every model change into a breaking one. Source-compatible rather than ABI-stable, and that will be stated honestly rather than implied.
+Starts only after the protocol and domain contracts stop moving - an early C++ implementation would turn every model change into a breaking one. Source-compatible rather than ABI-stable, and that will be stated honestly rather than implied.
 
 ## The wider project
 
@@ -46,7 +46,7 @@ taxonomy mean the same thing everywhere.
 | [Funora-java](https://github.com/Funora-Develop/Funora-java) | Java SDK. | `planned` |
 | [Funora-dotnet](https://github.com/Funora-Develop/Funora-dotnet) | .NET SDK. | `planned` |
 | [Funora-cpp](https://github.com/Funora-Develop/Funora-cpp) | C++ SDK. | `planned` |
-| [Funora-c](https://github.com/Funora-Develop/Funora-c) | C SDK — the narrowest contract in the project. | `planned` |
+| [Funora-c](https://github.com/Funora-Develop/Funora-c) | C SDK - the narrowest contract in the project. | `planned` |
 | [Funora-docs](https://github.com/Funora-Develop/Funora-docs) | Documentation for every SDK, from one source. | `design` |
 | [Funora-examples](https://github.com/Funora-Develop/Funora-examples) | End-to-end examples that CI actually runs. | `planned` |
 
@@ -55,7 +55,7 @@ taxonomy mean the same thing everywhere.
 Read [CONTRIBUTING.md](https://github.com/Funora-Develop/.github/blob/main/CONTRIBUTING.md) first.
 
 The most useful contributions right now are protocol observations, fixtures and
-specification review — not implementation.
+specification review - not implementation.
 
 ## Security
 
